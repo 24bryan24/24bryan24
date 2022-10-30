@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @24bryan24
-- 👀 I’m interested in ...JavaScript - Software Engineering
-- 🌱 I’m currently learning ...OOP (Object Oriented Programming)
+- 👋 Hi, I’m @24bryan24 (Bryan Heilman)
+- 👀 I’m interested in ...React - Software Engineering
+- 🌱 I’m currently creating ...Web Apps
 - 💞️ I’m looking to collaborate on ...A project
 - 📫 How to reach me ...my gmail above
 
